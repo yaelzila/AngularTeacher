@@ -1,0 +1,4 @@
+node --version
+npm i -g @angular/cli
+ng new___
+ng s -o
